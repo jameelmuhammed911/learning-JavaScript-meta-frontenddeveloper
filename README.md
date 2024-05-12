@@ -1,1 +1,1 @@
-# learning-JavaScript-meta-frontenddeveloper
+# learning-JavaScript-meta-frontenddevelopercertificate
